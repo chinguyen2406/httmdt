@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+#wp-login {
+    width: 400px;
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 230px auto;
+    text-align: center;
+}
+
+#login #username,
+#login #password,
+#login #fullname,
+#login #email
+ {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    background: gainsboro;
+    text-align: center;
+    width: 100%;
+}
+
+.login {
+    color: crimson;
+}
+
+#login #btn_login {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    margin: 15px 0px 10px;
+}
